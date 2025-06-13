@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on A real estate listing platform<br>🌱 I’m currently learning React Native expo<br>
 
 
 ## 🌐 Socials:
