@@ -1,1 +1,1 @@
-> Being edited
+> Goat npc
